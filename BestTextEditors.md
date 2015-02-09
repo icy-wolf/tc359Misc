@@ -2,7 +2,7 @@
 
 Every programmer comes across this at least once in their career. Figuring out which text editor is best for the project they are working on. Eventually, they will build biases and opinions towards one particular editor over another. This page is going to try and break down some of the better known text editors.
 
-**Note: I have do not have an IDE's listed and the information found in this document is research I've found online. See references below**
+**Note: I have do not have any IDE's listed and the information found in this document is research I've found online. See references below**
 
 ##Notepad++
 
@@ -24,16 +24,14 @@ Verdict: Great git integration but is not as good as Sublime.
 
 ##Vim
 
-##Emacs
+Vim is a text editor available on all Unix systems. It is a lightweight, fast tool that is customizable to your needs. However, there is a very big learning curve initially with all the commands (insert, append, deleting etc). There is a lot you can do without leaving home row in Vim but only if you know the commands and what to do with them. Beginners are typically lost as I was. Once you know what your doing it's fairly powerful but the beginning deters a lot of people. It has a lot of the same features of most text editors such as syntax highlighting, brace matching etc.
 
-##TextMate
+Verdict: Powerful once mastered, frustratingly difficult until then.
 
 ###References
  - http://www.pcworld.com/article/2033072/review-sublime-text-2-is-a-refined-text-editor-thats-a-pleasure-to-use.html
- - http://www.makeuseof.com/tag/top-7-reasons-to-give-the-vim-text-editor-a-chance/
  - http://blog.takipi.com/sublime-vs-atom-text-editor-battles/
  - http://unix.stackexchange.com/questions/986/what-are-the-pros-and-cons-of-vim-and-emacs
- - http://jmoses.co/2014/04/10/tale-of-three-editors.html
  - http://hiltmon.com/blog/2013/05/14/every-the-best-programmers-editor-review/
  - http://techwhirl.com/notepad-plus-plus-review/
 
